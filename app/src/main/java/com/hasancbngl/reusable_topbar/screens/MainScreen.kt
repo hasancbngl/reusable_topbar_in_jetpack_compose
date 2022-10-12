@@ -1,4 +1,4 @@
-package com.hasancbngl.reusable_topbar.mainscreen
+package com.hasancbngl.reusable_topbar.screens
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
@@ -11,7 +11,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.navigation.NavHostController
-import com.hasancbngl.reusable_topbar.TopBar
+import com.hasancbngl.reusable_topbar.screens.components.TopBar
 
 @Composable
 fun MainScreen(navController: NavHostController) {

@@ -1,4 +1,4 @@
-package com.hasancbngl.reusable_topbar
+package com.hasancbngl.reusable_topbar.screens.components
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*

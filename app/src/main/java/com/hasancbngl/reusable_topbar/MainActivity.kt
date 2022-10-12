@@ -8,8 +8,8 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.hasancbngl.reusable_topbar.mainscreen.ItemsScreen
-import com.hasancbngl.reusable_topbar.mainscreen.MainScreen
+import com.hasancbngl.reusable_topbar.screens.ItemsScreen
+import com.hasancbngl.reusable_topbar.screens.MainScreen
 import com.hasancbngl.reusable_topbar.ui.theme.ReusableTopbarDemoAppTheme
 
 class MainActivity : ComponentActivity() {
